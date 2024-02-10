@@ -20,29 +20,5 @@ function App() {
   );
 }
 
-// export default App;
 
-// import './App.css';
-// import { Route, Routes } from 'react-router-dom'; // Ensure correct import path for react-router-dom
-// import { Box } from '@mui/material'; // Ensure correct import path for @mui/material
-
-// import ExerciseDetail from './pages/ExerciseDetail';
-// import Home from './pages/Home';
-// import Navbar from './components/Navbar';
-// import Footer from './components/Footer';
-
-// function App() {
-//   return (
-//     <Box width="400px">
-//       <Navbar />
-//       <Routes>
-//         <Route path="/" element={<Home/>} />
-//         <Route path="/exercise/:id" element={<ExerciseDetail/>} />
-//       </Routes>
-//       <Footer />
-//     </Box>
-//   );
-// }
-
-// export default App;
 
