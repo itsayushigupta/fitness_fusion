@@ -18,7 +18,7 @@ const HeroBanner = () => {
                     fontSize: { lg: '44px', xs: '40px' }
                 }} mb="23px" mt="30px"
             >
-                Empower Your Body, <br /> Inspire Life
+                Empower Body <br /> Inspire Life
             </Typography>
 
             <Typography fontSize="22px" lineHeight="35px" mb={4}>
